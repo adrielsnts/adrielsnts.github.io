@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css?family=Mansalva|Open+Sans&display=swap');
+
+ul {
+    list-style: none;
+    padding-left: 0;
+    text-align: center;
+}
+
+#sideNav {
+    background: #0B2545;
+    text-align: center;
+    padding-top: 50;
+    height: 100vh;
+    font-family:"Open Sans"
+}
+ 
+#sideNav h2 {
+    color: #ffffff;
+    background:#b95e10
+}
+
+#sideNav h3 {
+    color: #46b1f0;
+    padding-bottom: 10;
+    padding-top:10
+}
+
+#mainContent {
+    background: #ECF0F1;
+    width: 100vh;
+    font-family: "Open Sans"
+}
+
+img {
+    border-radius: 60%
+}
+
+.resume-header h1 {
+    color: #C8553D
+}
+
+.resume-header h3 {
+    color: #C8553D;
+}
+
+#mainContent {
+    padding-left: 19%
+}
+
+.work h1 {
+    color: #0B2545;
+    padding-top: 10
+}
+
+.education {
+    padding-top: 10;
+}
+
+.seminars-attended {
+       padding-top:20
+}
+
+.research-papers-prepared {
+       padding-top:20
+}
+
+.personal-background {
+       padding-top:20
+}
+
+.references {
+       padding-top:20
+}
+
+a{
+   color: #F28F3B
+}
+
+.references p{
+    margin:0
+}
